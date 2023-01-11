@@ -1,0 +1,22 @@
+{
+  "name": "se-tu-mejor-version",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass --include-path scss scss/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NachoBeta/Se-Tu-Mejor-Version.git"
+  },
+  "author": "NachoBeta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NachoBeta/Se-Tu-Mejor-Version/issues"
+  },
+  "homepage": "https://github.com/NachoBeta/Se-Tu-Mejor-Version#readme",
+  "devDependencies": {
+    "node-sass": "^8.0.0"
+  }
+}
