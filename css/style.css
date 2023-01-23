@@ -1,17 +1,8 @@
-.nav-contenedor {
-  background-color: red;
-  display: flex;
-  justify-content: space-evenly;
-  height: 3rem;
-  width: 100%;
-  flex-direction: row;
-  flex-wrap: nowrap;
-  align-items: center; }
-  .nav-contenedor__nav-titulo {
-    font-size: 1rem; }
-
-.contenedor_imagen-principal__img {
-  height: auto;
-  width: 100%;
+* {
   margin: 0px;
-  padding: 0px; }
+  padding: 0px;
+  box-sizing: border-box; }
+
+py-4 {
+  padding-top: 0rem !important;
+  padding-bottom: 0rem !important; }
