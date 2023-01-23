@@ -3,6 +3,5 @@
   padding: 0px;
   box-sizing: border-box; }
 
-py-4 {
-  padding-top: 0rem !important;
-  padding-bottom: 0rem !important; }
+.container {
+  background-image: url(../Recursos/Backgrounds/Mandalas.jpg); }
